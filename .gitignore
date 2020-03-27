@@ -1,2 +1,6 @@
 base_images/
 video_files/
+venv/
+notebooks/*/.ipynb_checkpoints/
+.idea/
+vr_images/
